@@ -22,7 +22,12 @@ g++ sudoku.cpp -o sudoku
 ```
 
 ## 📸 Preview
-
+### Home
+![Preview1](Images/1.png)  
+### Game
+![Preview2](Images/2.png)  
+### Leader board
+![Preview3](Images/3.png)  
 
 ## ✨ Author 
 👤 **Mehrdad Motahari**  
