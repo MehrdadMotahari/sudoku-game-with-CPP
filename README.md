@@ -31,6 +31,6 @@ g++ sudoku.cpp -o sudoku
 
 ## ✨ Author 
 👤 **Mehrdad Motahari**  
-📧 Email: [Mehrdad.Mo@gmail.com](mailto:mehrdad.mo@gmail.com)  
+📧 Email: [Mehrdad.Mo2005@gmail.com](mailto:mehrdad.mo2005@gmail.com)  
 🔗 GitHub: [github.com/MehrdadMotahari](https://github.com/MehrdadMotahari)  
 
